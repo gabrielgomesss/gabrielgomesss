@@ -1,16 +1,21 @@
-### Hi there 👋
+Olá, bem-vindo ao meu Github!
 
-<!--
-**gabrielgomesss/gabrielgomesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 - Meu nome é Gabriel Ribeiro e sou desenvolvedor Front-End.
 
-Here are some ideas to get you started:
+😁 - Sou uma pessoa empática, extrovertida, comunicativa e que está sempre em busca de novos desafios e aprendizados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu lema é: Missão dada, missão cumprida.
+
+💻 - Minhas principais tecnologias são:</br></br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,react,css,html,sass,bootstrap,figma" />
+  </a>
+</p>
+
+📱 - Outro projeto não listado em meu Github é o aplicativo Anatomy Gym, disponível nas principais lojas de aplicativos! </br></br>
+Ele foi construido em React Native e tem como propósito auxiliar praticantes de músculação a entender quais músculos estão sendo solicitados durante o exercício e suas principais funções no corpo humano.</br></br>
+
+
+😀 - Obrigado por visitar meu Github! Eai, bora fechar negócio?🤝 
